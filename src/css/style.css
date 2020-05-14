@@ -58,6 +58,5 @@ body {
     @apply bg-black;
     @apply opacity-50;
     @apply overflow-hidden;
-    /* Doesn't work when put @apply z-0 */
-    /* @apply z-0; */
+    @apply z-0;
 }
