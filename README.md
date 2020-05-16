@@ -1,6 +1,6 @@
 # Accessible Dialog
 
-This is an example how to implement accessible dialog and has ["trap focus"](https://hiddedevries.nl/en/blog/2017-01-29-using-javascript-to-trap-focus-in-an-element). The original code comes from A11ycast channel with topic: [Accessible Modal Dialogs](https://www.youtube.com/watch?v=JS68faEUduk). I just update the UI. :)
+This is an example how to implement accessible dialog. This dialog have [inert](https://github.com/WICG/inert) and [trap focus](https://hiddedevries.nl/en/blog/2017-01-29-using-javascript-to-trap-focus-in-an-element). The original code comes from A11ycast channel with topic: [Accessible Modal Dialogs](https://www.youtube.com/watch?v=JS68faEUduk). I just update the UI. :)
 
 ## How to run?
 
